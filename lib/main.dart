@@ -116,7 +116,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Kursus Flutter'),
+        title: Text('Pilihan Produk 2'),
       ),
       // Using StreamBuilder to display all products from Firestore in real-time
       body: StreamBuilder(
